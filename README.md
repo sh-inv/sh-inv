@@ -1,4 +1,4 @@
-### 안녕하세요, 개발자입니다.
+### Frontend Engineer 유상호입니다
 
 <!--
 **sh-inv/sh-inv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
